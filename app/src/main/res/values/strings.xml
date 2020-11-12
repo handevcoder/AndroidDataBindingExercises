@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVVM Android Data Binding</string>
+    <string name="number_one">number one</string>
+    <string name="number_two">number two</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="first_activity">First Activity</string>
+    <string name="nama">user</string>
+    <string name="id">iduser</string>
+    <string name="tv_user">tv user</string>
+    <string name="tv_firstname">tv firstname</string>
+    <string name="tv_email">tv email</string>
+</resources>
