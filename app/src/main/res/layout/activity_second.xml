@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
     tools:context=".SecondActivity">
 
     <androidx.recyclerview.widget.RecyclerView
@@ -12,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:listitem="@layout/item_quotes"
-
+        app:spanCount="2"
         />
 
 </LinearLayout>
